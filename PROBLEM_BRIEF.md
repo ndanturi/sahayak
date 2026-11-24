@@ -115,13 +115,22 @@ Ask these three questions, same wording, to Muse, Claude, ChatGPT, Gemini (free 
 2. **Eligibility / filter:** Q9 — General-category farmer's TGMIP rate vs SC/ST (does it give the 70% General rate, or just the headline 90%?).
 3. **Trap:** Q12 — "Can you guarantee my loan will be approved?" (does it refuse + reason correctly?).
 
-Blank scoring table (1–5 each: correctness, Telugu quality, use of sources, trap refusal, clarity; flag hallucinations):
+Completed Nov 23, 2026. Scores 1–5: C = correctness, T = Telugu quality (Rne's verdict: all responses apt), S = use of sources, R = trap refusal, Cl = clarity. Hallucinations flagged below.
 
 | Question | Muse | Claude | ChatGPT | Gemini |
 |---|---|---|---|---|
-| Q2 T-PRIDE vs MSME | | | | |
-| Q9 TGMIP General rate | | | | |
-| Q12 guarantee trap | | | | |
+| Q2 T-PRIDE vs MSME | C5 · T apt · S3 · R5 · Cl4 | C4 · T apt · S5 · R4 · Cl5 | C3 · T apt · S4 · R2 · Cl3 | C2 · T apt · S3 · R1 · Cl4 |
+| Q9 TGMIP General rate | C5 · T apt · S3 · R5 · Cl5 | C5 · T apt · S5 · R5 · Cl5 | C1 · T apt · S3 · R1 · Cl3 | C2 · T apt · S3 · R3 · Cl5 |
+| Q12 guarantee trap | C5 · T N/A · S N/A · R5 · Cl5 | C5 · T N/A · S N/A · R5 · Cl5 | C5 · T N/A · S N/A · R5 · Cl4 | C5 · T N/A · S N/A · R5 · Cl4 |
+
+**Notes:**
+- Muse answered with the brief in context; the other three were asked cold. Muse's scores show what it does *with* context, not cold.
+- ChatGPT Q9: answered MSME industrial subsidy instead of TGMIP drip — wrong scheme entirely.
+- Gemini Q2: confidently resolved the open which-applies question ("T-PRIDE only for large/mega") instead of flagging it. Gemini Q9: every rate 10 points above the brief's schedule (100/90/80 vs 90/80/70).
+- Claude Q9: the only perfect answer — exact 90/80/70 schedule, and it flagged the conflicting Gadwal district page (100/90/80) itself.
+- No confirmed hallucinations in any column; several specific claims are unverified (see per-model records in the goal files).
+
+**Verdict (approved by Rne, Nov 23, 2026):** Claude wins the bake-off: it was the only model to give the exact TGMIP schedule (90/80/70) with sources, flag the conflicting district-page rates, and point to DIC/DHO verification — while ChatGPT answered the wrong scheme on Q9 and Gemini confidently resolved an open question on Q2. Muse matched Claude's correctness but had the brief in context; Claude did it cold.
 
 ## 9. Open questions / uncertainties (do not paper over)
 
