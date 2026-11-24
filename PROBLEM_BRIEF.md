@@ -41,7 +41,7 @@ Anyone in Telangana who wants to know which schemes or tenders they are actually
 5. **TE — women-specific:** "నేను BC మహిళను, కుట్టు యూనిట్ పెట్టాలనుకుంటున్నాను. మహిళలకు ప్రత్యేకంగా ఏ పథకాలు ఉన్నాయి? వడ్డీ రాయితీ ఉందా?"
    Gloss: "I am a BC woman and want to start a tailoring unit. What schemes are there specially for women? Is there an interest subsidy?"
    Expected: For a Rs 3 lakh unit — Stand-Up India does NOT fit (minimum loan Rs 10 lakh); T-PRIDE does NOT fit (SC/ST only, she is BC). What fits: PMEGP as a woman promoter — 35% subsidy rural / 25% urban (vs 15% / 25% general), apply via the KVIC e-portal / bank / DIC; MUDRA Kishore Rs 50,001–Rs 5 lakh, collateral-free, at any bank; MSME Policy 2024 woman-owned MSE extra 20% investment subsidy capped at Rs 20 lakh (units set up on/after 18 Sep 2024) + 100% stamp duty reimbursement. Interest subsidy: yes — Pavala Vaddi reimburses interest above 3% p.a. up to 9% p.a. for 5 years on a term loan for a new micro/small unit, claimed half-yearly via TG-iPASS. WE Hub (wehub.telangana.gov.in) gives free mentoring and loan help, not funding. Do not cite the free BC sewing-machine scheme — that window closed 30 Sep 2026. The SHG route (Indira Mahila Shakti interest-free loans Rs 75,000–Rs 10 lakh) applies only if she is an SHG member.
-7. **EN — comparison / deadline:** "Stand-Up India vs Rajiv Yuva Vikasam for a Rs 3 lakh tailoring unit — which fits, what documents do I need, and when does it close?"
+6. **EN — comparison / deadline:** "Stand-Up India vs Rajiv Yuva Vikasam for a Rs 3 lakh tailoring unit — which fits, what documents do I need, and when does it close?"
    Expected: Stand-Up India extended to 31 Mar 2031; Rajiv Yuva Vikasam registrations closed Nov 1, 2026, so the Nov 19 first phase (up to ₹1 lakh) is for existing applicants only — do not present it as open to a new applicant.
 
 ### Persona 3 — General-category small farmer, 2 acres, drip subsidy
@@ -65,7 +65,7 @@ Anyone in Telangana who wants to know which schemes or tenders they are actually
 
 ## 6. Sources — 25 to start from (verify each link before citing)
 
-**TODO (Rne): confirm every URL live, save PDFs into `sources/`.** No link below was live-checked when drafted. Status key: **Catalogue** = link from the Telangana catalogue page; **Watch** = from the daily watch notes, link is the portal to start from.
+**Status (Nov 23):** all 30 rows classified — see `sources/SOURCE_CHECK_REPORT.md`; 4 PDFs saved and verified in `sources/`. Status key: **Catalogue** = link from the Telangana catalogue page; **Watch** = from the daily watch notes, link is the portal to start from.
 
 ### Schemes & programmes (14)
 | # | Name | Who it is for | Link / starting point | One line |
@@ -83,7 +83,7 @@ Anyone in Telangana who wants to know which schemes or tenders they are actually
 | 11 | Indiramma sarees distribution | Ration-card families | Watch notes | 1 crore sarees, distribution from Nov 26, 2026. |
 | 12 | Roof Restart Scheme | Owners of incomplete houses sanctioned 2006–2013 / Gruha Lakshmi 2023 | Watch notes | ₹2 lakh per beneficiary to finish incomplete houses; 48,590 houses; no open application — field-identified only. |
 | 13 | Women entrepreneurship schemes | Women (all categories) | TG-iPASS / DIC (Catalogue) — collect the specific scheme pages | Rne to add the named women-specific schemes found here; do not cite a generic portal as a scheme. |
-| 14 | HPCL Non-Domestic LPG distributorship | Telangana applicants (ad dated Nov 10, 2026) | https://www.hindustanpetroleum.com/pages/hpgas-nd-distributorship-advertisements (Catalogue) | Live ad; deadline is inside the ad PDF — still unverified, check the PDF. |
+| 14 | HPCL Non-Domestic LPG distributorship | Telangana applicants (ad dated Nov 10, 2026) | https://www.hindustanpetroleum.com/pages/hpgas-nd-distributorship-advertisements (Catalogue) | Live ad; deadline CONFIRMED: applications by 17:00 IST on 31 Dec 2026 (4:30 AM MST Dec 31). Ad + locations list saved in `sources/`. |
 
 ### Live small tenders — all bid via tender.telangana.gov.in (Catalogue)
 | # | Tender | Who / value | Close (IST) |
@@ -126,7 +126,7 @@ Blank scoring table (1–5 each: correctness, Telugu quality, use of sources, tr
 ## 9. Open questions / uncertainties (do not paper over)
 
 - T-PRIDE vs MSME Policy 2024: which schedule actually applies to a new unit is unresolved. Confirm at DIC / TG-iPASS.
-- HPCL LPG distributorship deadline is inside the ad PDF, still unverified.
+- HPCL LPG distributorship deadline CONFIRMED Nov 23: applications by 17:00 IST on 31 Dec 2026 (4:30 AM MST Dec 31), submitted at the Regional Office for each location — read from the ad PDF itself.
 - No public Indiramma self-service portal exists; enrolment is via camps / officials.
 - No fresh petrol-pump dealership round in 2026.
 - No source link in Section 6 was live-checked when this draft was written.
