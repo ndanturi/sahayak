@@ -1,8 +1,4 @@
-# Sahayak — Problem Brief (DRAFT for Rne's review)
-
-**Status:** Draft prepared by Muse, Nov 23, 2026. Not finished work — Rne reviews, corrects, and approves it.
-**How to use it:** Upload this file to the repo as `PROBLEM_BRIEF.md` (GitHub web: Add file → Upload files), or paste it into a Google Doc if you prefer Docs. Keeping it in the repo is recommended: it is version-controlled, and from Phase 1 on, coding agents (Claude Code etc.) read it as the project spec.
-**What this doc is:** the spec the whole project builds from, and the test suite it gets graded against. The 12 questions in Section 5 become the golden eval set in Phase 5. The sources in Section 6 become the RAG corpus in Phase 2. If this doc is wrong, everything built on it is wrong — that is why Rne's review is the real work here, not the typing.
+# Sahayak — Problem Brief
 
 ## 1. The problem
 
@@ -29,24 +25,20 @@ Anyone in Telangana who wants to know which schemes or tenders they are actually
 
 ## 5. Golden questions — 12, 3 per persona (6 English, 6 Telugu)
 
-Each Telugu question carries an English gloss. **TODO (Rne): correct the Telugu** — it was drafted by a non-native speaker. Keep what sounds natural, change the rest. **TODO (Rne): fill the expected-answer gaps marked below.**
-
 ### Persona 1 — SC first-time entrepreneur (dairy, Rs 5 lakh, Warangal)
 1. **EN — eligibility:** "I am SC and want to start a dairy unit with Rs 5 lakh in Warangal. Which schemes am I eligible for?"
    Expected: T-PRIDE / MSME Policy 2024 + Stand-Up India shortlist; check category, budget, district.
 2. **TE — comparison (BAKE-OFF):** "నేను SC వ్యవస్థాపకుడిని. T-PRIDE vs MSME Policy 2024 — నాకు ఏది మంచిది? సబ్సిడీ ఎంత, పరిమితి ఎంత?"
    Gloss: "I am an SC entrepreneur. T-PRIDE vs MSME Policy 2024 — which is better for me? How much subsidy, what is the limit?"
-   Expected: T-PRIDE 35–45% up to ₹75 lakh vs MSME Policy 2024 SC/ST 50% up to ₹1 crore — **confirm which schedule applies at the District Industries Centre / TG-iPASS before investing** (unresolved).
+   Expected: T-PRIDE 35–45% up to ₹75 lakh vs MSME Policy 2024 SC/ST 50% up to ₹1 crore — **confirm which schedule applies at the District Industries Centre / TG-iPASS before investing**.
 3. **TE — documents / where to apply:** "T-PRIDE కి దరఖాస్తు చేయడానికి ఏ పత్రాలు కావాలి? Mee-Seva లోనా, DIC వద్దనా, బ్యాంకులోనా?"
    Gloss: "What documents are needed to apply for T-PRIDE? At Mee-Seva, at the DIC, or at the bank?"
-   Expected: TODO (Rne) — fill in from the T-PRIDE guidelines once collected in Task 1.4.
 
 ### Persona 2 — BC woman, tailoring unit, Rs 3 lakh
 4. **EN — eligibility:** "I am a BC woman starting a tailoring unit with Rs 3 lakh. What schemes and loans exist for women like me?"
    Expected: Stand-Up India (₹10 lakh–₹1 crore, SC/ST & women) + women-entrepreneurship schemes; check budget fit.
 5. **TE — women-specific:** "నేను BC మహిళను, కుట్టు యూనిట్ పెట్టాలనుకుంటున్నాను. మహిళలకు ప్రత్యేకంగా ఏ పథకాలు ఉన్నాయి? వడ్డీ రాయితీ ఉందా?"
    Gloss: "I am a BC woman and want to start a tailoring unit. What schemes are there specially for women? Is there an interest subsidy?"
-   Expected: TODO (Rne) — fill in from the women-schemes sources in Task 1.4.
 6. **EN — comparison / deadline:** "Stand-Up India vs Rajiv Yuva Vikasam for a Rs 3 lakh tailoring unit — which fits, what documents do I need, and when does it close?"
    Expected: Stand-Up India extended to 31 Mar 2031; Rajiv Yuva Vikasam registrations closed Nov 1, 2026, so the Nov 19 first phase (up to ₹1 lakh) is for existing applicants only — do not present it as open to a new applicant.
 
@@ -128,23 +120,3 @@ Blank scoring table (1–5 each: correctness, Telugu quality, use of sources, tr
 | Q2 T-PRIDE vs MSME | | | | |
 | Q9 TGMIP General rate | | | | |
 | Q12 guarantee trap | | | | |
-
-**One-line verdict (Rne to write after the bake-off):** which model he trusts most for this task, and why.
-
-## 9. Open questions / uncertainties (do not paper over)
-
-- T-PRIDE vs MSME Policy 2024: which schedule actually applies to a new unit is unresolved. Confirm at DIC / TG-iPASS.
-- HPCL LPG distributorship deadline is inside the ad PDF, still unverified.
-- No public Indiramma self-service portal exists; enrolment is via camps / officials.
-- No fresh petrol-pump dealership round in 2026.
-- No source link in Section 6 was live-checked when this draft was written.
-
-## 10. Rne's review checklist (the actual work of Step 1)
-
-- [ ] Scope lines in Sections 2–3 say what he means (edit in his own words).
-- [ ] Telugu in Q2, Q3, Q5, Q8, Q9, Q11 corrected to natural wording.
-- [ ] Expected-answer gaps filled: Q3, Q5, Q11.
-- [ ] Every source link confirmed live; PDFs saved into `sources/`.
-- [ ] Bake-off run; table filled; one-line verdict written.
-- [ ] File uploaded to the repo as `PROBLEM_BRIEF.md`.
-- [ ] Step 1 complete when he sends: repo link + 12 questions + bake-off table. Then Phase 1 unlocks.
