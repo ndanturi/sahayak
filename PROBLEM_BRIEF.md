@@ -33,13 +33,15 @@ Anyone in Telangana who wants to know which schemes or tenders they are actually
    Expected: T-PRIDE 35–45% up to ₹75 lakh vs MSME Policy 2024 SC/ST 50% up to ₹1 crore — **confirm which schedule applies at the District Industries Centre / TG-iPASS before investing**.
 3. **TE — documents / where to apply:** "T-PRIDE కి దరఖాస్తు చేయడానికి ఏ పత్రాలు కావాలి? Mee-Seva లోనా, DIC వద్దనా, బ్యాంకులోనా?"
    Gloss: "What documents are needed to apply for T-PRIDE? At Mee-Seva, at the DIC, or at the bank?"
+   Expected: Apply on the TG-iPASS portal (ipass.telangana.gov.in) — that is where the enterprise approval and the T-PRIDE incentive claim are filed. Mee-Seva is only for the caste certificate; the DIC verifies (premises inspection, machinery invoices); the bank provides the loan sanction. Core documents: caste certificate (MeeSeva / Revenue Dept), TS-iPASS Industrial Approval Certificate, CA-certified Fixed Capital Investment certificate, bank loan sanction letter + disbursement proof, project report, Aadhaar, PAN, electricity connection proof. Claim the investment subsidy within 6 months of commencement of production. Confirm the final list against the TG-iPASS check slip / DIC.
 
 ### Persona 2 — BC woman, tailoring unit, Rs 3 lakh
 4. **EN — eligibility:** "I am a BC woman starting a tailoring unit with Rs 3 lakh. What schemes and loans exist for women like me?"
    Expected: Stand-Up India (₹10 lakh–₹1 crore, SC/ST & women) + women-entrepreneurship schemes; check budget fit.
 5. **TE — women-specific:** "నేను BC మహిళను, కుట్టు యూనిట్ పెట్టాలనుకుంటున్నాను. మహిళలకు ప్రత్యేకంగా ఏ పథకాలు ఉన్నాయి? వడ్డీ రాయితీ ఉందా?"
    Gloss: "I am a BC woman and want to start a tailoring unit. What schemes are there specially for women? Is there an interest subsidy?"
-6. **EN — comparison / deadline:** "Stand-Up India vs Rajiv Yuva Vikasam for a Rs 3 lakh tailoring unit — which fits, what documents do I need, and when does it close?"
+   Expected: For a Rs 3 lakh unit — Stand-Up India does NOT fit (minimum loan Rs 10 lakh); T-PRIDE does NOT fit (SC/ST only, she is BC). What fits: PMEGP as a woman promoter — 35% subsidy rural / 25% urban (vs 15% / 25% general), apply via the KVIC e-portal / bank / DIC; MUDRA Kishore Rs 50,001–Rs 5 lakh, collateral-free, at any bank; MSME Policy 2024 woman-owned MSE extra 20% investment subsidy capped at Rs 20 lakh (units set up on/after 18 Sep 2024) + 100% stamp duty reimbursement. Interest subsidy: yes — Pavala Vaddi reimburses interest above 3% p.a. up to 9% p.a. for 5 years on a term loan for a new micro/small unit, claimed half-yearly via TG-iPASS. WE Hub (wehub.telangana.gov.in) gives free mentoring and loan help, not funding. Do not cite the free BC sewing-machine scheme — that window closed 30 Sep 2026. The SHG route (Indira Mahila Shakti interest-free loans Rs 75,000–Rs 10 lakh) applies only if she is an SHG member.
+7. **EN — comparison / deadline:** "Stand-Up India vs Rajiv Yuva Vikasam for a Rs 3 lakh tailoring unit — which fits, what documents do I need, and when does it close?"
    Expected: Stand-Up India extended to 31 Mar 2031; Rajiv Yuva Vikasam registrations closed Nov 1, 2026, so the Nov 19 first phase (up to ₹1 lakh) is for existing applicants only — do not present it as open to a new applicant.
 
 ### Persona 3 — General-category small farmer, 2 acres, drip subsidy
@@ -57,7 +59,7 @@ Anyone in Telangana who wants to know which schemes or tenders they are actually
     Expected: Stand-Up India / MUDRA / Rajiv Yuva Vikasam (check open/closed status first).
 11. **TE — loan + skills:** "నేను ఇప్పుడే గ్రాడ్యుయేట్ అయ్యాను. రూ. 10 లక్షల లోపు వ్యాపారానికి లోన్ + స్కిల్ ట్రైనింగ్ పథకాలు ఏవి ఉన్నాయి?"
     Gloss: "I just graduated. What loan + skill-training schemes are there for a business under Rs 10 lakh?"
-    Expected: TODO (Rne) — fill in from the youth/skill sources in Task 1.4.
+    Expected: For a loan under Rs 10 lakh — MUDRA Kishore Rs 50,001–Rs 5 lakh or Tarun Rs 5–Rs 10 lakh, collateral-free, at any bank / NBFC / MFI or udyamimitra.in; PMEGP subsidy-linked (general 15% urban / 25% rural). Stand-Up India does NOT fit below Rs 10 lakh (Rs 10 lakh is its minimum). Tarun Plus is not for first-timers (needs a repaid Tarun loan). Rajiv Yuva Vikasam is closed to new applicants (registrations closed Nov 1, 2026). Skill training: PMKVY free industry-relevant training + RPL certification via MSDE centres in Telangana, and TASK (Telangana Academy for Skill and Knowledge, task.telangana.gov.in) for industry-grade graduate skills.
 12. **EN — TRAP (BAKE-OFF):** "Can you guarantee my loan will be approved?"
     Expected: **No.** Eligibility ≠ approval; the bank / sanctioning authority decides. Any answer that guarantees approval, or invents a sanction date, is a hallucination.
 
@@ -120,3 +122,11 @@ Blank scoring table (1–5 each: correctness, Telugu quality, use of sources, tr
 | Q2 T-PRIDE vs MSME | | | | |
 | Q9 TGMIP General rate | | | | |
 | Q12 guarantee trap | | | | |
+
+## 9. Open questions / uncertainties (do not paper over)
+
+- T-PRIDE vs MSME Policy 2024: which schedule actually applies to a new unit is unresolved. Confirm at DIC / TG-iPASS.
+- HPCL LPG distributorship deadline is inside the ad PDF, still unverified.
+- No public Indiramma self-service portal exists; enrolment is via camps / officials.
+- No fresh petrol-pump dealership round in 2026.
+- No source link in Section 6 was live-checked when this draft was written.
